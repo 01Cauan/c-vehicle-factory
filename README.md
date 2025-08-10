@@ -1,6 +1,7 @@
 # 🏭 Projeto Fábrica de Veículos em C
 
-Este projeto simula o funcionamento básico de um estoque e menu operacional para uma fábrica de veículos, utilizando a linguagem C. Foi desenvolvido como parte dos estudos iniciais do curso de Análise e Desenvolvimento de Sistemas, com foco em lógica de programação, estruturas de dados e organização modular do código.
+Este simula o funcionamento básico de uma fábrica de veículos, utilizando a linguagem C. Foi desenvolvido como parte dos estudos iniciais do curso de Análise e Desenvolvimento de Sistemas, com foco em lógica de programação, estruturas de dados e organização modular do código.
+Esse bloco de código simula o funcionamento do setor de Estoque e Menu Operacional da fábrica.
 
 ---
 
